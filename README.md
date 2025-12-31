@@ -49,9 +49,5 @@ The languages, tools & applications I currently use in my daily workflow.
 
 ## What I’m currently working on:
 
-- A new store front app with NextJS and Strapi
-- Adding AI to my workflow with OpenCode, GitHub Copilot, and Claude Sonnet
-
-## Contact me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bill742/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://billdean.me)
+- 🛒 A new store front app with NextJS and Strapi
+- 🤖 Adding AI to my workflow with OpenCode, GitHub Copilot, and Claude Sonnet
