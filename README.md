@@ -49,6 +49,6 @@ The languages, tools & applications I currently use in my daily workflow.
 
 ## What I’m currently working on:
 
-- 🛒 Recently launched the Pro version of the [NextStarter app](https://github.com/bill742/nextstarter-lite)
+- 🛒 Recently launched the open-source and Pro versions of the [NextStarter app](https://github.com/bill742/nextstarter-lite)
 - 📱 Android and iOS versions of [Corner Video](https://github.com/bill742/CornerVideo)
 - 🤖 Adding an AI recommendation system to Corner Video
