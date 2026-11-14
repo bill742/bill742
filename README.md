@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, my name is Bill
 
-I'm a front-end-focused web developer with over 10 years of experience building dynamic, scalable, and accessible user interfaces. I specialize in React, TypeScript, and modern UI frameworks, with a strong background in state management, API integration, and performance optimization. Whether it’s creating reusable components, improving accessibility, or collaborating with cross-functional teams, I’m passionate about delivering high-quality, user-centered web experiences.
+I'm a front-end-focused web developer with 15+ years of experience building dynamic, scalable, and accessible user interfaces. I specialize in React, TypeScript, and modern UI frameworks, with a strong background in state management, API integration, and performance optimization. Whether it’s creating reusable components, improving accessibility, or collaborating with cross-functional teams, I’m passionate about delivering high-quality, user-centered web experiences.
 
 Feel free to reach out to me regarding a role in your organization or to discuss your next project.
 
@@ -49,5 +49,6 @@ The languages, tools & applications I currently use in my daily workflow.
 
 ## What I’m currently working on:
 
-- 🛒 A new store front app with NextJS and Strapi
-- 🤖 Adding AI to my workflow with OpenCode, GitHub Copilot, and Claude Sonnet
+- 🛒 Recently launched the Pro version of the [NextStarter app](https://github.com/bill742/nextstarter-lite)
+- 📱 Android and iOS versions of [Corner Video](https://github.com/bill742/CornerVideo)
+- 🤖 Adding an AI recommendation system to [Corner Video](hhttps://github.com/bill742/CornerVideo)
