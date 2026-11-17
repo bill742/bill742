@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, my name is Bill
 
-I'm a front-end-focused web developer with 15+ years of experience building dynamic, scalable, and accessible user interfaces. I specialize in React, TypeScript, and modern UI frameworks, with a strong background in state management, API integration, and performance optimization. Whether it’s creating reusable components, improving accessibility, or collaborating with cross-functional teams, I’m passionate about delivering high-quality, user-centered web experiences.
+I'm a front-end developer with 15+ years of building for the web, most recently 7 years at ASL19 shipping accessible, multilingual React and Next.js products in both LTR and RTL. Since 2025 I've been building full-stack products under 742 Studios, including NextStarter and Corner Video.
 
 Feel free to reach out to me regarding a role in your organization or to discuss your next project.
 
